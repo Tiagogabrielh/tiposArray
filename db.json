@@ -1,0 +1,101 @@
+{ "lista": [
+    {
+        "titulo" : "Mais esperto que o Diabo" ,
+        "preco" : 50,
+        "autor" :   "Napoleon Hill",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/MaisEsperto.png?raw=true",
+        "alt" : "Mais esperto que o Diabo",
+        "qtd" : 6 ,
+        "categoria" : "Desenvolvimento Pessoal" 
+    },
+
+    {
+        "titulo" : "1984" ,
+        "preco" : 60,
+        "autor" : "George Orwell",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/1984.png?raw=true",
+        "alt" :  "1984",
+        "qtd" : 10,
+        "categoria" : "Política"
+    },
+
+    {
+        "titulo" : "O homem mais rico da Babilônia",
+        "preco" : 30,
+        "autor" : "George S. Clason",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Babilonia.png?raw=true",
+        "alt" : "O homem mais rico da Babilônia",
+        "qtd" : 50,
+        "categoria" : "Diversos"
+    },
+
+    {
+        "titulo" : "A Revolução dos Bichos" ,
+        "preco" : 30,
+        "autor" : "George Orwell",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Revolucao.png?raw=true",
+        "alt" : "A Revolução dos Bichos",
+        "qtd" : 30,
+        "categoria" : "Política" 
+    },
+
+    {
+        "titulo" : "Eu, robô",
+        "preco" : 60,
+        "autor" : "Isaac Asimov",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/robo.png?raw=true",
+        "alt" : "Eu, robô",
+        "qtd" : 20,
+        "categoria" : "Diversos" 
+    },
+
+    {
+        "titulo" : "O caminho do guerreiro pacífico",
+        "preco" : 50,
+        "autor" : "Dan Millman",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/GuerreiroPacifico.png?raw=true" ,
+        "alt" : "O caminho do guerreiro pacífico",
+        "qtd" : 50,
+        "categoria" : "Desenvolvimento Pessoal" 
+    },
+
+    {
+        "titulo" : "Guardiola, confidencial",
+        "preco" : 80,
+        "autor" : "Martí Perarnau",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Guardiola.png?raw=true" ,
+        "alt" : "Guardiola, confidencial",
+        "qtd" : 5,
+        "categoria" : "Diversos" 
+    },
+
+    {
+        "titulo" : "Crime e Castigo",
+        "preco" : 30,
+        "autor" : "Dostoiévski",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Crime.png?raw=true" ,
+        "alt" : "Crime e Castigo",
+        "qtd" : 50,
+        "categoria" : "Diversos" 
+    },
+
+    {
+        "titulo" : "Mindset",
+        "preco" : 50,
+        "autor" : "Carol S.Dweck",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Mindset.png?raw=true",
+        "alt" : "Mindset",
+        "qtd" : 10,
+        "categoria" : "Desenvolvimento Pessoal" 
+    },
+
+    {
+        "titulo" : "A sutil arte de ligar o foda-se",
+        "preco" : 40,
+        "autor" : "Mark Manson",
+        "imagem" : "https://github.com/Tiagogabrielh/tiposArray/blob/main/img/Arte.png?raw=true",
+        "alt" : "A sutil arte de ligar o foda-se",
+        "qtd" : 50,
+        "categoria" : "Desenvolvimento Pessoal"
+    }
+]}
